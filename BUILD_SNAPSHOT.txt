@@ -1,0 +1,1 @@
+PixelForge build 2026-09-16 03:34:25 UTC — Selection/reference handle dots and lines now stay a constant on-screen size regardless of pinch-zoom (divided by canvasScale), instead of growing with zoom and covering more of the sprite. Purely a drawing-code change; gesture-handling code in PixelCanvas.kt remains byte-identical to the confirmed-stable version.

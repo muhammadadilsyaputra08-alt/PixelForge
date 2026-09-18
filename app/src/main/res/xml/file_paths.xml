@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Matches StorageManager: filesDir/projects/<id>/export/... -->
+    <files-path name="pixelforge_exports" path="projects/" />
+</paths>
